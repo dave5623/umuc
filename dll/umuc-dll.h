@@ -6,14 +6,3 @@
 
 UMUC_DLL void showMessage ();
 
-//#ifdef EXPORT_API
-//#define BASICDLL extern "C" __declspec(dllexport)
-//#else
-//#define BASICDLL extern "C" __declspec(dllimport)
-//#endif
-//
-////
-//// Function Declarations
-////
-//
-//BASICDLL void ExecuteTarget();
