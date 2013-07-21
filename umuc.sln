@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{4B47F331-7796-4D25-B124-81459D770A35}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dropper", "dropper\dropper.vcxproj", "{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B47F331-7796-4D25-B124-81459D770A35}.Debug|Win32.ActiveCfg = Release|Win32
+		{4B47F331-7796-4D25-B124-81459D770A35}.Debug|Win32.Build.0 = Release|Win32
+		{4B47F331-7796-4D25-B124-81459D770A35}.Release|Win32.ActiveCfg = Release|Win32
+		{4B47F331-7796-4D25-B124-81459D770A35}.Release|Win32.Build.0 = Release|Win32
+		{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}.Debug|Win32.ActiveCfg = Release|Win32
+		{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}.Debug|Win32.Build.0 = Release|Win32
+		{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}.Release|Win32.ActiveCfg = Release|Win32
+		{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
