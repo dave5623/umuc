@@ -5,6 +5,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dropper", "dropper\dropper.vcxproj", "{6FBF40D1-2170-4C1D-91DE-0DCF0EA7B859}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D169CB13-3988-407D-9BD5-45132EE7497A}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+		..\..\Backdoor Project\vcredist_x86-2012.exe = ..\..\Backdoor Project\vcredist_x86-2012.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
